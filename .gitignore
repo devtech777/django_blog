@@ -49,7 +49,5 @@ Thumbs.db
 *.wmv
 
 .vscode/
-blog/__pycache__/
-corporate_site/__pycache__/
 corporate_site_env/
 Pipfile
